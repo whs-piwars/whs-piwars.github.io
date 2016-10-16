@@ -4,7 +4,7 @@ title: We Have a Blog!
 tags: []
 ---
 
-One of our goals is to keep costs down, and build a robot that's affordable for everyone. Afterall, shouldn't
+One of our goals is to keep costs down, and build a robot that's affordable for everyone. After all, shouldn't
 it be possible to build a robot just by saving your pocket money for a while?
 
 To meet that goal, we're hoping to use a [Raspberry Pi Zero](https://www.raspberrypi.org/products/pi-zero/)
