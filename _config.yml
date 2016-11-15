@@ -39,7 +39,7 @@ author:
   email: "piwars@w-h-s.org.uk"
 #  facebook: ""  # eg. daattali
   github: "whs-piwars"    # eg. daattali
-#  twitter: ""   # eg. daattali
+  twitter: "whs_piwars"   # eg. daattali
 #  google-plus: ""   # eg. +DeanAttali or 109424658772469020925
 #  linkedin: ""  # eg. daattali
 #  xing: ""      # eg. daattali
@@ -54,7 +54,7 @@ footer-links-active:
   rss: true
   facebook: false
   email: true
-  twitter: false
+  twitter: true
   google-plus: false
   github: true
   linkedin: false
