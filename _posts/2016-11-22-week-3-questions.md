@@ -25,7 +25,7 @@ then rewrite it using Python when our prototype robot is ready.
 * Could we cope if the lines crossed each other?
 * How could we speed up subsequent runs?
 
-### Straight-line Speed Test (Wall following):
+### Straight-line speed test (wall following):
 Another challenge is the
 [straight-line speed test](http://piwars.org/2017-competition/challenges/straight-line-speed-test). The course is
 7.28m (24-feet) long, so either our robot has to be really accurate at going in a straight line, or we need to
