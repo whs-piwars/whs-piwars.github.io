@@ -13,7 +13,7 @@ Okay, after today's meeting we've just about managed to finish assembling our mB
 One of the challenges is to
 [complete five laps of a line-following course](http://piwars.org/2017-competition/challenges/line-following/),
 with the fastest lap gaining the most points. We're going to figure out an algorithm to do that, using our mBots,
-then rewrite it using Python when our protoype robot is ready.
+then rewrite it using Python when our prototype robot is ready.
 
 * Does the width of the line make any difference?
 * What difference does the number of line sensors make?
